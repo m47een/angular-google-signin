@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miltador/angular-google-signin.git"
+    "url": "git+https://github.com/GUL-/angular-google-signin.git"
   },
   "keywords": [
     "google",
