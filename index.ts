@@ -17,7 +17,7 @@ export class GoogleSignInFailure {
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class GoogleSignInComponent implements AfterViewInit {
-  private id: string = 'google-signin2';
+  id: string = 'google-signin2';
 
   // Render options
   @Input() private scope: string;
