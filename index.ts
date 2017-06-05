@@ -40,7 +40,6 @@ export class GoogleSignInComponent implements AfterViewInit {
 
   @Input() set height(value: string) {
     this._height = Number(value);
-    gapi.load('', '');
   }
 
   private _longTitle: boolean;
